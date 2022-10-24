@@ -7,7 +7,7 @@ Practice using Node.JS.
 ## Used In This Repository
 
 - JavaScript 1.5
-- Node.JS
+- Node.JS v19.0.0
 
 ## Getting Started
 
