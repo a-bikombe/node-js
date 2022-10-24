@@ -7,15 +7,9 @@ Practice using Node.JS.
 ## Used In This Repository
 
 - JavaScript 1.5
-- Node.JS v19.0.0
+- [Node.JS v19.0.0](https://nodejs.org/en/download/)
 
 ## Getting Started
-
-### Dependencies
-
-* [Node.JS](https://nodejs.org/en/download/)
-
-### Setup
 
 To Run: 
 `node node.js`
