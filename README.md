@@ -1,8 +1,8 @@
-# Practice using Node.JS
+# Practice using Node.JS and Jest
 
-***October 23, 2022***
+***October 25, 2022***
 
-Practice using Node.JS.
+Practice using Node.JS and Jest .
 
 ## Used In This Repository
 
@@ -13,6 +13,9 @@ Practice using Node.JS.
 
 To Run: 
 `node node.js`
+
+To Test:
+`npm test`
 
 ## Version History
 
